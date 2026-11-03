@@ -37,6 +37,18 @@ Personal information has to come out before company data can be licensed. De-ide
 | Blog | [aitrainingdatabroker.com/blog/](https://aitrainingdatabroker.com/blog/?utm_source=github) |
 | Videos and slides | [YouTube](https://www.youtube.com/@aitrainingdatabroker) and [aitrainingdatabroker.com/slides/](https://aitrainingdatabroker.com/slides/?utm_source=github) |
 
+## Open RL environment demos (Unreal Engine)
+
+Reinforcement learning (RL) environments built in Unreal Engine 5, one per industry: an AI agent practises a real job, a reward function scores every try, and each README explains the operating data a company would need to make it realistic.
+
+| Demo | Video |
+|---|---|
+| [Trucking RL Environment in Unreal Engine: Trailer Docking Demo](https://github.com/aitrainingdatabroker/rl-environment-trucking-trailer-docking-unreal) | [YouTube](https://www.youtube.com/watch?v=sKAn9w618I4) |
+| [Construction RL Environment in Unreal Engine: Tower Crane Lift Demo](https://github.com/aitrainingdatabroker/rl-environment-tower-crane-construction-unreal) | [YouTube](https://www.youtube.com/watch?v=n_BJqgVKKX0) |
+| [Manufacturing RL Environment in Unreal Engine: Robot Arm Bin Picking Demo](https://github.com/aitrainingdatabroker/rl-environment-factory-robot-arm-unreal) | [YouTube](https://www.youtube.com/watch?v=YyOVTxhzDBQ) |
+| [MLP in RL, Explained with a Grocery Store: Milk Reorder Demo](https://github.com/aitrainingdatabroker/mlp-rl-grocery-reorder-unreal) | [YouTube](https://www.youtube.com/watch?v=r_xfQlLeCKI) |
+| [Delivery Robot RL Environment in Unreal Engine: Sidewalk Pizza Delivery Demo](https://github.com/aitrainingdatabroker/rl-environment-delivery-robot-unreal) | [YouTube](https://www.youtube.com/watch?v=thywTO-ZU2E) |
+
 ## Buying data for AI training?
 
 AI labs and model teams sourcing licensed company data: see [aitrainingdatabroker.com/buy/](https://aitrainingdatabroker.com/buy/?utm_source=github).
